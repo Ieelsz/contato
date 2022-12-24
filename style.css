@@ -73,7 +73,7 @@ ul{
     font-size: 23px;
 }
 
-@media (min-width: 480px) {
+@media (min-width: 0px) {
     .logo{
         width: 150px;
         border-radius: 100%;
